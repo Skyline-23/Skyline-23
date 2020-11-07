@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=apple19760401&fontSize=90)  
+<div align=center>
 ### I want to be IOS dev. 
 
 ![Discord](https://img.shields.io/badge/apple19760401%232421-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
+<div align=left>
 <!--
 **apple19760401/apple19760401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
