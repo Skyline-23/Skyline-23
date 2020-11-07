@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apple19760401&repo=binari-ios)](https://github.com/apple19760401/binari-ios)
+### [What is Binari?](https://web.facebook.com/%EB%B9%84%EB%82%98%EB%A6%AC-108970140963553)
 
 ## 🌱 I'm Currently learning
 ### - Swift
