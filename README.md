@@ -3,6 +3,9 @@
 <!--
 **apple19760401/apple19760401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align=center>
+![Discord](https://img.shields.io/badge/apple19760401%232421-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
+<div align=left>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
