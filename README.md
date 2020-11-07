@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=apple19760401&fontSize=90)  
-## I want to be IOS dev. 
+### I want to be IOS dev. 
 <!--
 **apple19760401/apple19760401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ![apple19760401's GitHub stats](https://github-readme-stats.vercel.app/api?username=apple19760401&show_icons=true&count_private=true)  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=apple19760401)
 
+
+## 🔭 I’m currently working on
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apple19760401&repo=binari-ios)](https://github.com/apple19760401/binari-ios)
 
 ## 🌱 I'm Currently learning
 ### - Swift
