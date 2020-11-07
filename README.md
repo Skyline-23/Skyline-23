@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-## 🔭 I learned ..
+## 🔭 I learned
 ### - C
 ### - python (a little)
 
