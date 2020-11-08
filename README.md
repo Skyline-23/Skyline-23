@@ -3,6 +3,8 @@
 
 ![Discord](https://img.shields.io/badge/apple19760401%232421-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
 [![icloud Badge](https://img.shields.io/badge/bs2740@icloud.com-d14836?style=flat-square&logo=icloud&logoColor=white&color=blue&link=mailto:bs2740@icloud.com)](mailto:bs2740@icloud.com)
+
+![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 <!--
 **apple19760401/apple19760401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
