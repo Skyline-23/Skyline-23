@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=apple19760401&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
-### I want to be IOS dev. 
+<div align=center>
+  <h1>
+    I want to be IOS dev.
+  </h1>
 
 ![Discord](https://img.shields.io/badge/apple19760401%232421-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
 [![icloud Badge](https://img.shields.io/badge/bs2740@icloud.com-d14836?style=flat-square&logo=icloud&logoColor=white&color=blue&link=mailto:bs2740@icloud.com)](mailto:bs2740@icloud.com)
+  </div>
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 <!--
