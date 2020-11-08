@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
