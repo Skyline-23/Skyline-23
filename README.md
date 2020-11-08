@@ -27,18 +27,20 @@ Here are some ideas to get you started:
 
 
 ### 🔭 I’m currently working on
-[![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
+![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apple19760401&repo=binari-ios)](https://github.com/apple19760401/binari-ios)
 ### - [What is Binari?](https://web.facebook.com/%EB%B9%84%EB%82%98%EB%A6%AC-108970140963553)
 
 
 
-## 🌱 I'm Currently learning
+### 🌱 I'm Currently learning
+![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 ### - Swift
 
 
 
-## 🔭 I learned
+### 🔭 I learned
+![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 ### - C
 ### - python (a little)
 
