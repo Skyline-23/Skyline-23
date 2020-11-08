@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=apple19760401&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=apple19760401&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
 ### I want to be IOS dev. 
 
 ![Discord](https://img.shields.io/badge/apple19760401%232421-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=footer)
