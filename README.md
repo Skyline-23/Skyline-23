@@ -9,7 +9,7 @@
  [![twiter Badge](https://img.shields.io/badge/apple19760401-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/apple19760401)](https://twitter.com/apple19760401)
 ![Discord](https://img.shields.io/badge/apple19760401%232421-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
 [![icloud Badge](https://img.shields.io/badge/bs2740@icloud.com-3693F3?style=flat-square&logo=icloud&logoColor=white&link=mailto:bs2740@icloud.com)](mailto:bs2740@icloud.com)
-[![spotify Badge](https://img.shields.io/badge/apple19760401-1ED760?style=flat-square&logo=Spotify&logoColor=white)
+![spotify Badge](https://img.shields.io/badge/apple19760401-1ED760?style=flat-square&logo=Spotify&logoColor=white)
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 
