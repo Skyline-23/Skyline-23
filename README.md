@@ -7,7 +7,7 @@
 
  [![Facebook Badge](https://img.shields.io/badge/김부성-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100045581492288)](https://www.facebook.com/profile.php?id=100045581492288)
 ![Discord](https://img.shields.io/badge/apple19760401%232421-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
-[![icloud Badge](https://img.shields.io/badge/bs2740@icloud.com-d14836?style=flat-square&logo=icloud&logoColor=white&color=blue&link=mailto:bs2740@icloud.com)](mailto:bs2740@icloud.com)
+[![icloud Badge](https://img.shields.io/badge/bs2740@icloud.com-icloud?style=flat-square&logo=icloud&logoColor=white&color=blue&link=mailto:bs2740@icloud.com)](mailto:bs2740@icloud.com)
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 
