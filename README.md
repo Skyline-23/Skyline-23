@@ -45,9 +45,12 @@ Here are some ideas to get you started:
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apple19760401&repo=binari-ios)](https://github.com/apple19760401/binari-ios)
 ### - [What is Binari?](https://web.facebook.com/%EB%B9%84%EB%82%98%EB%A6%AC-108970140963553)
 -->
-
+<!--
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apple19760401&repo=Narsha)](https://github.com/apple19760401/Narsha)
 ### - DGSW project
+-->
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apple19760401&repo=remote-controller)](https://github.com/apple19760401/remote-controller)
+### - RC remote app using socket server
 
 
 ## 📖 I'm Currently learning
