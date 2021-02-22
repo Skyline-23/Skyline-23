@@ -11,7 +11,7 @@
 [![Facebook Badge](https://img.shields.io/badge/김부성-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100045581492288)](https://www.facebook.com/profile.php?id=100045581492288)
 [![Instagram Badge](https://img.shields.io/badge/Skyline____23-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Skyline____23)](https://www.instagram.com/Skyline__23)
 [![twiter Badge](https://img.shields.io/badge/Skyline______23-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Skyline___23)](https://twitter.com/Skyline___23)
-![spotify Badge](https://img.shields.io/badge/Skyline --23-1ED760?style=flat-square&logo=Spotify&logoColor=white)
+![spotify Badge](https://img.shields.io/badge/Skyline--23-1ED760?style=flat-square&logo=Spotify&logoColor=white)
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 
