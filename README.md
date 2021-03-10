@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=Skyline-23&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
   <h1>
-    I want to be IOS dev.
+    I want to be iOS dev.
   </h1>
 
 [![reddit Badge](https://img.shields.io/badge/Skyline--23-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Skyline-23)](https://www.reddit.com/user/Skyline-23)
