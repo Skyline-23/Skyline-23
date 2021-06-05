@@ -19,7 +19,8 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyline-23&hide_border=true&layout=compact)
 
 ## 📘 languages
-- Swift
+- [Swift](https://github.com/apple/swift)
+- Python
 
 ## 🛠 tool
 - Xcode
@@ -29,6 +30,7 @@
 - Moya
 - RxSwift
 - SnapKit
+- 
 
 
 <div align=center>
