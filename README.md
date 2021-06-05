@@ -36,8 +36,10 @@
 - [SnapKit](https://github.com/SnapKit/SnapKit)
 - TDD
 
+<!--
 <div align=center>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
 
 </div>
+-->
