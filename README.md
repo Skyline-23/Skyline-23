@@ -20,18 +20,20 @@
 
 ## 📘 languages
 - [Swift](https://github.com/apple/swift)
-- Python
+- [Python](https://github.com/python)
+
+## ⌨️ usable design pattern
+- MVC
+- MVVM
 
 ## 🛠 tool
-- Xcode
+- [Xcode](https://developer.apple.com/xcode/)
 
 ## 📖 learning
-- ReactorKit
-- Moya
-- RxSwift
-- SnapKit
-- 
-
+- [RxSwift](https://github.com/ReactiveX/RxSwift)
+- [ReactorKit](https://github.com/ReactorKit/ReactorKit)
+- [Moya](https://github.com/Moya/Moya)
+- [SnapKit](https://github.com/SnapKit/SnapKit)
 
 <div align=center>
 
