@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=Skyline-23&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Skyline-23&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
   <h1>
     iOS 주니어 개발자인 김부성입니다!
   </h1>
