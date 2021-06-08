@@ -35,9 +35,24 @@
 - MVC
 - MVVM
 
+## 📚 usable iOS Skill
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [RealmSwift](https://github.com/realm/realm-cocoa)
+- [SkeletonView](https://github.com/Juanpe/SkeletonView)
+- [Then](https://github.com/devxoul/Then)
+- [lottie-ios](https://github.com/airbnb/lottie-ios)
+- [Core Data](https://developer.apple.com/documentation/coredata)
+- [Core Location](https://developer.apple.com/documentation/corelocation/)
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+- [Codable](https://developer.apple.com/documentation/swift/codable)
+- [NotificationCenter](https://developer.apple.com/documentation/foundation/notificationcenter)
+
 ## 📖 learning
 - [RxSwift](https://github.com/ReactiveX/RxSwift)
 - [ReactorKit](https://github.com/ReactorKit/ReactorKit)
 - [Moya](https://github.com/Moya/Moya)
+- [Kingfisher](https://github.com/onevcat/Kingfisher)
 - [SnapKit](https://github.com/SnapKit/SnapKit)
+- DI (Dependency Injection)
+- CI/CD
 - TDD
