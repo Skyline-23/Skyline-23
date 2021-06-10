@@ -47,6 +47,8 @@
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 - [Codable](https://developer.apple.com/documentation/swift/codable)
 - [NotificationCenter](https://developer.apple.com/documentation/foundation/notificationcenter)
+- [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
+- [Socket.IO-Client-Swift](https://github.com/socketio/socket.io-client-swift)
 
 ## 📖 learning
 - [RxSwift](https://github.com/ReactiveX/RxSwift)
