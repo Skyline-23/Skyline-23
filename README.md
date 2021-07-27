@@ -51,12 +51,15 @@
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
 - [Socket.IO-Client-Swift](https://github.com/socketio/socket.io-client-swift)
 - [SnapKit](https://github.com/SnapKit/SnapKit)
+- [ReactorKit](https://github.com/ReactorKit/ReactorKit)
+- [RxSwift](https://github.com/ReactiveX/RxSwift)
 
 ## 📖 learning
-- [RxSwift](https://github.com/ReactiveX/RxSwift)
-- [ReactorKit](https://github.com/ReactorKit/ReactorKit)
 - [Moya](https://github.com/Moya/Moya)
 - [Kingfisher](https://github.com/onevcat/Kingfisher)
-- DI (Dependency Injection)
-- CI/CD
+- [RxFlow](https://github.com/RxSwiftCommunity/RxFlow)
+- [SwiftLint](https://github.com/realm/SwiftLint)
+- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
+- SwiftUI
+- CI/CD (fastlane)
 - TDD
