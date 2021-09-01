@@ -30,36 +30,3 @@
 <a href="https://developer.apple.com/xcode/" target='_blank'>
   <img src='https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/6b/ed/ec/6bedecd4-5e33-2447-d5dd-e6a959c90601/Xcode-85-220-0-4-2x.png/1200x630bb.png' width="40" height="40">
 </a>
-
-## ⌨️ usable design pattern
-- MVC
-- MVVM
-
-## 📚 usable iOS Skill
-- [Alamofire](https://github.com/Alamofire/Alamofire)
-- [RealmSwift](https://github.com/realm/realm-cocoa)
-- [SkeletonView](https://github.com/Juanpe/SkeletonView)
-- [Then](https://github.com/devxoul/Then)
-- [lottie-ios](https://github.com/airbnb/lottie-ios)
-- [MapKit](https://developer.apple.com/documentation/mapkit/)
-- [NAVER Map IOS SDK](https://navermaps.github.io/ios-map-sdk/guide-ko/0.html)
-- [Core Data](https://developer.apple.com/documentation/coredata)
-- [Core Location](https://developer.apple.com/documentation/corelocation/)
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
-- [Codable](https://developer.apple.com/documentation/swift/codable)
-- [NotificationCenter](https://developer.apple.com/documentation/foundation/notificationcenter)
-- [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
-- [Socket.IO-Client-Swift](https://github.com/socketio/socket.io-client-swift)
-- [SnapKit](https://github.com/SnapKit/SnapKit)
-- [ReactorKit](https://github.com/ReactorKit/ReactorKit)
-- [RxSwift](https://github.com/ReactiveX/RxSwift)
-
-## 📖 learning
-- [Moya](https://github.com/Moya/Moya)
-- [Kingfisher](https://github.com/onevcat/Kingfisher)
-- [RxFlow](https://github.com/RxSwiftCommunity/RxFlow)
-- [SwiftLint](https://github.com/realm/SwiftLint)
-- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
-- SwiftUI
-- CI/CD (fastlane)
-- TDD
