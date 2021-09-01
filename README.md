@@ -17,16 +17,3 @@
 ## 💻 Stats
 ![Skyline-23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyline-23&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyline-23&hide_border=true&layout=compact)
-
-## 📘 languages
-<a href="https://github.com/apple/swift" target='_blank'>
-  <img src='https://sa0blogs.blob.core.windows.net/justinchronicles/2014/07/Apple_Swift_Logo.png' width="40" height="40">
-</a>
-<a href="https://github.com/python" target='_blank'>
-  <img src='https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png' width="40" height="40">
-</a>
-
-## 🛠 tool
-<a href="https://developer.apple.com/xcode/" target='_blank'>
-  <img src='https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/6b/ed/ec/6bedecd4-5e33-2447-d5dd-e6a959c90601/Xcode-85-220-0-4-2x.png/1200x630bb.png' width="40" height="40">
-</a>
