@@ -5,7 +5,7 @@
     Buseong Kim
   </h1>
   <body>
-    iOS Developer
+    Apple Platform based Developer
     <br>
     <br>I'm focus on solving the underlying problem rather than the code that will be used right now.
     <br>My main language is Swift, but also interasted in Obj-C, C++
