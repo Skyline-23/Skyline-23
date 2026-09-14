@@ -18,17 +18,6 @@
   <a href="mailto:flight@skyline23.com">Email</a>
 </p>
 
-<br>
-
-## Contribution flow
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Skyline-23&amp;bg_color=00000000&amp;border_color=00000000&amp;color=93C5FD&amp;line=3B82F6&amp;point=BFDBFE&amp;area_color=1D4ED8&amp;area=true&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;height=300&amp;days=31&amp;grid=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Skyline-23&amp;bg_color=00000000&amp;border_color=00000000&amp;color=075985&amp;line=0284C7&amp;point=1D4ED8&amp;area_color=7DD3FC&amp;area=true&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;height=300&amp;days=31&amp;grid=false">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skyline-23&amp;bg_color=00000000&amp;border_color=00000000&amp;color=075985&amp;line=0284C7&amp;point=1D4ED8&amp;area_color=7DD3FC&amp;area=true&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;height=300&amp;days=31&amp;grid=false" alt="Animated contribution activity for the last 31 days">
-  </picture>
-</p>
 
 ## GitHub snapshot
 
