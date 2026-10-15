@@ -18,8 +18,19 @@
   <a href="mailto:flight@skyline23.com">Email</a>
 </p>
 
+## AI coding activity
 
-## GitHub snapshot
+<p align="center">
+  <a href="https://tokscale.ai/u/Skyline-23">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://tokscale.ai/api/embed/Skyline-23/svg?graph=1&amp;tokens=compact&amp;cost=compact&amp;color=blue&amp;theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://tokscale.ai/api/embed/Skyline-23/svg?graph=1&amp;tokens=compact&amp;cost=compact&amp;color=blue&amp;theme=light">
+      <img src="https://tokscale.ai/api/embed/Skyline-23/svg?graph=1&amp;tokens=compact&amp;cost=compact&amp;color=blue&amp;theme=light" width="840" alt="Tokscale Stats for @Skyline-23: AI token usage, cost, token rank, and contribution activity">
+    </picture>
+  </a>
+</p>
+
+## Open-source activity
 
 <p align="center">
   <picture>
