@@ -23,9 +23,9 @@
 <p align="center">
   <a href="https://tokscale.ai/u/Skyline-23">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://tokscale.ai/api/embed/Skyline-23/svg?graph=1&amp;tokens=compact&amp;cost=compact&amp;color=blue&amp;theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://tokscale.ai/api/embed/Skyline-23/svg?graph=1&amp;tokens=compact&amp;cost=compact&amp;color=blue&amp;theme=light">
-      <img src="https://tokscale.ai/api/embed/Skyline-23/svg?view=3d&theme=light" width="840" alt="Tokscale Stats for @Skyline-23: AI token usage, cost, token rank, and contribution activity">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/tokscale-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/tokscale-light.svg">
+      <img src="assets/tokscale-light.svg" width="680" height="482" alt="Tokscale Stats for @Skyline-23: AI token usage, cost, token rank, and contribution activity">
     </picture>
   </a>
 </p>
