@@ -25,7 +25,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/tokscale-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/tokscale-light.svg">
-      <img src="assets/tokscale-light.svg" width="680" height="482" alt="Tokscale Stats for @Skyline-23: AI token usage, cost, token rank, and contribution activity">
+      <img src="assets/tokscale-light.svg" width="680" alt="Tokscale Stats for @Skyline-23: AI token usage, cost, token rank, and contribution activity">
     </picture>
   </a>
 </p>
